@@ -63,8 +63,6 @@ class Solution:
 
 ```
 
-![Screenshot 2024-03-01 at 3.26.17 pm.png](/assets/88%20Merge%20Sorted%20Array%206e4db7f70acb44e9b71ee33422529e4f/Screenshot_2024-03-01_at_3.26.17_pm.png)
-
 # Javascript
 
 ```jsx
@@ -84,5 +82,3 @@ var merge = function (nums1, m, nums2, n) {
   nums1.sort((a, b) => a - b);
 };
 ```
-
-![Screenshot 2024-03-01 at 3.25.38 pm.png](/assets/88%20Merge%20Sorted%20Array%206e4db7f70acb44e9b71ee33422529e4f/Screenshot_2024-03-01_at_3.25.38_pm.png)
