@@ -16,4 +16,6 @@
 
 [1148. Article Views I](/1148%20Article%20Views%20I.md)
 
+[1683. Invalid Tweets](/1683%20Invalid%20Tweets.md)
+
 [1757. Recyclable and Low Fat Products](/1757%20Recyclable%20and%20Low%20Fat%20Products.md)
