@@ -24,6 +24,8 @@
 
 [1581. Customer Who Visited but Did Not Make Any Transactions](/1581%20Customer%20Who%20Visited%20but%20Did%20Not%20Make%20Any%20Transactions%20.md)
 
+[1661. Average Time of Process per Machine](/1661%20Average%20Time%20of%20Process%20per%20Machine.md)
+
 [1683. Invalid Tweets](/1683%20Invalid%20Tweets.md)
 
 [1757. Recyclable and Low Fat Products](/1757%20Recyclable%20and%20Low%20Fat%20Products.md)
