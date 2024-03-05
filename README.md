@@ -24,6 +24,8 @@
 
 [1148. Article Views I](/1148%20Article%20Views%20I.md)
 
+[1251. Average Selling Price](/1251%20Average%20Selling%20Price.md)
+
 [1280. Students and Examinations](/1280%20Students%20and%20Examinations.md)
 
 [1378. Replace Employee ID With The Unique Identifier](/1378%20Replace%20Employee%20ID%20With%20The%20Unique%20Identifie.md)
