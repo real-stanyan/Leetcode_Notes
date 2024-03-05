@@ -22,6 +22,8 @@
 
 [1068. Product Sales Analysis I](/1068%20Product%20Sales%20Analysis%20I.md)
 
+[1075. Project Employees I](/1075%20Project%20Employees%20I.md)
+
 [1148. Article Views I](/1148%20Article%20Views%20I.md)
 
 [1251. Average Selling Price](/1251%20Average%20Selling%20Price.md)
