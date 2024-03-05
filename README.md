@@ -22,6 +22,8 @@
 
 [1148. Article Views I](/1148%20Article%20Views%20I.md)
 
+[1280. Students and Examinations](/1280%20Students%20and%20Examinations.md)
+
 [1378. Replace Employee ID With The Unique Identifier](/1378%20Replace%20Employee%20ID%20With%20The%20Unique%20Identifie.md)
 
 [1581. Customer Who Visited but Did Not Make Any Transactions](/1581%20Customer%20Who%20Visited%20but%20Did%20Not%20Make%20Any%20Transactions%20.md)
