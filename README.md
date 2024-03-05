@@ -18,6 +18,8 @@
 
 [595. Big Countries](/595%20Big%20Countries.md)
 
+[620. Not Boring Movies](/620%20Not%20Boring%20Movies.md)
+
 [1068. Product Sales Analysis I](/1068%20Product%20Sales%20Analysis%20I.md)
 
 [1148. Article Views I](/1148%20Article%20Views%20I.md)
