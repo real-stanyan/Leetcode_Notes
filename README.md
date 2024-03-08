@@ -46,6 +46,8 @@
 
 [1683. Invalid Tweets](/1683%20Invalid%20Tweets.md)
 
+[1729. Find Followers Count](/1729%20Find%20Followers%20Count.md)
+
 [1757. Recyclable and Low Fat Products](/1757%20Recyclable%20and%20Low%20Fat%20Products.md)
 
 [2356. Number of Unique Subjects Taught by Each Teacher](/2356%20Number%20of%20Unique%20Subjects%20Taught%20by%20Each%20Teac.md)
