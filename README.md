@@ -18,6 +18,8 @@
 
 [595. Big Countries](/595%20Big%20Countries.md)
 
+[596. Classes More Than 5 Students](/596%20Classes%20More%20Than%205%20Students.md)
+
 [620. Not Boring Movies](/620%20Not%20Boring%20Movies.md)
 
 [1068. Product Sales Analysis I](/1068%20Product%20Sales%20Analysis%20I.md)
