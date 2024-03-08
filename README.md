@@ -26,6 +26,8 @@
 
 [1148. Article Views I](/1148%20Article%20Views%20I.md)
 
+[1141. User Activity for the Past 30 Days I](/1141%20User%20Activity%20for%20the%20Past%2030%20Days%20I.md)
+
 [1251. Average Selling Price](/1251%20Average%20Selling%20Price.md)
 
 [1211. Queries Quality and Percentage](/1211%20Queries%20Quality%20and%20Percentage.md)
