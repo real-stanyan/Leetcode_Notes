@@ -12,6 +12,10 @@
 
 [217. Contains Duplicate](/217%20Contains%20Duplicate.md)
 
+# Sets
+
+[349. Intersection of Two Arrays](/349%20Intersection%20of%20Two%20Arrays.md)
+
 # SQL
 
 [197. Rising Temperature](/197%20Rising%20Temperature.md)
