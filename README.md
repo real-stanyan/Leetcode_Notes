@@ -8,6 +8,10 @@
 
 [88. Merge Sorted Array](/88%20Merge%20Sorted%20Array.md)
 
+# Sorting
+
+[414. Third Maximum Number](/414%20Third%20Maximum%20Number.md)
+
 # HashMap
 
 [217. Contains Duplicate](/217%20Contains%20Duplicate.md)
