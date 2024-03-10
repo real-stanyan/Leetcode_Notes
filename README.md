@@ -11,6 +11,7 @@
 # HashMap
 
 [217. Contains Duplicate](/217%20Contains%20Duplicate.md)
+[389. Find the Difference](/389%20Find%20the%20Difference.md)
 
 # Sets
 
