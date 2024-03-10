@@ -8,6 +8,10 @@
 
 [88. Merge Sorted Array](/88%20Merge%20Sorted%20Array.md)
 
+# HashMap
+
+[217. Contains Duplicate](/217%20Contains%20Duplicate.md)
+
 # SQL
 
 [197. Rising Temperature](/197%20Rising%20Temperature.md)
