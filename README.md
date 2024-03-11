@@ -8,6 +8,8 @@
 
 [88. Merge Sorted Array](/88%20Merge%20Sorted%20Array.md)
 
+[443. String Compression](/443%20String%20Compression.md)
+
 [747. Largest Number At Least Twice of Others](/747%20Largest%20Number%20At%20Least.md)
 
 # Sorting
