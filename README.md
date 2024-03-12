@@ -54,6 +54,7 @@
 ## Matrix
 
 [1572. Matrix Diagonal Sum](/1572%20Matrix%20Diagonal%20Sum.md)
+
 [1672. Richest Customer Wealth](/1672%20Richest%20Customer%20Wealth.md)
 
 ## SQL
