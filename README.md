@@ -1,11 +1,17 @@
 # Leetcode_Notes
 
 [Array](#array)
+
 [String](#string)
+
 [Sorting](#sorting)
+
 [HashMap](#hashmap)
+
 [Sets](#sets)
+
 [Stack](#stack)
+
 [SQL](#sql)
 
 ## Array
