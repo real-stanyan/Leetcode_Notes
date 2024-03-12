@@ -12,6 +12,8 @@
 
 [Stack](#stack)
 
+[Matrix](#matrix)
+
 [SQL](#sql)
 
 ## Array
@@ -48,6 +50,10 @@
 ## Stack
 
 [682. Baseball Game](/682%20Baseball%20Game.md)
+
+## Matrix
+
+[1672. Richest Customer Wealth](/1672%20Richest%20Customer%20Wealth.md)
 
 ## SQL
 
