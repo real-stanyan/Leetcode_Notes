@@ -14,6 +14,10 @@
 
 [747. Largest Number At Least Twice of Others](/747%20Largest%20Number%20At%20Least.md)
 
+# String
+
+[657. Robot Return to Origin](/657%20Robot%20Return%20to%20Origin.md)
+
 # Sorting
 
 [414. Third Maximum Number](/414%20Third%20Maximum%20Number.md)
@@ -29,7 +33,6 @@
 
 # Stack
 
-[657. Robot Return to Origin](/657%20Robot%20Return%20to%20Origin.md)
 [682. Baseball Game](/682%20Baseball%20Game.md)
 
 # SQL
