@@ -27,6 +27,10 @@
 
 [349. Intersection of Two Arrays](/349%20Intersection%20of%20Two%20Arrays.md)
 
+# Stack
+
+[682. Baseball Game](/682%20Baseball%20Game.md)
+
 # SQL
 
 [197. Rising Temperature](/197%20Rising%20Temperature.md)
