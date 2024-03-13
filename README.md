@@ -37,6 +37,7 @@
 ## Sorting
 
 [414. Third Maximum Number](/414%20Third%20Maximum%20Number.md)
+[1502. Can Make Arithmetic Progression From Sequence](/1502%20Can%20Make%20Arithmetic%20Progression.md)
 
 ## HashMap
 
