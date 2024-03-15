@@ -8,6 +8,8 @@
 
 [HashMap](#hashmap)
 
+[Linked List](#linked-list)
+
 [Sets](#sets)
 
 [Stack](#stack)
@@ -43,6 +45,10 @@
 
 [217. Contains Duplicate](/217%20Contains%20Duplicate.md)
 [389. Find the Difference](/389%20Find%20the%20Difference.md)
+
+## Linked List
+
+[141. Linked List Cycle](/141%20Linked%20List%20Cycle.md)
 
 ## Sets
 
