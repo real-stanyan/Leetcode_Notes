@@ -60,6 +60,8 @@
 
 [349. Intersection of Two Arrays](/349%20Intersection%20of%20Two%20Arrays.md)
 
+[705. Design HashSet](/705%20Design%20HashSet.md)
+
 ## Stack
 
 [682. Baseball Game](/682%20Baseball%20Game.md)
