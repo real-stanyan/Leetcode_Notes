@@ -48,6 +48,8 @@
 
 [389. Find the Difference](/389%20Find%20the%20Difference.md)
 
+[706. Design HashMap](/706%20Design%20HashMap.md)
+
 ## Linked List
 
 [141. Linked List Cycle](/141%20Linked%20List%20Cycle.md)
