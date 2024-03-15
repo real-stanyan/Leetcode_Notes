@@ -58,6 +58,8 @@
 
 [234. Palindrome Linked List](/203%20Remove%20Linked%20List%20Elements.md)
 
+[1290. Convert Binary Number in a Linked List to Integer](/1290%20Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Int.md)
+
 ## Sets
 
 [349. Intersection of Two Arrays](/349%20Intersection%20of%20Two%20Arrays.md)
